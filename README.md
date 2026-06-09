@@ -22,22 +22,12 @@ A passionate software developer focused on building robust backends, clean APIs,
 ### 🎨 Frontend & Design
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💾 Databases & Dev Tools
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/apache_maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-
----
-
-## 📈 GitHub Stats & Overview
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=parchurraja&show_icons=true&theme=tokyonight&count_private=true" alt="parchurraja's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parchurraja&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
-</p>
 
 ---
 
@@ -45,7 +35,7 @@ A passionate software developer focused on building robust backends, clean APIs,
 
 ### 📚 [LAB LIB](https://github.com/parchurraja/LAB-LIB-)
 > *Intelligent Book Discovery & Cataloging Platform.*
-- **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, Jsoup, JavaScript.
+- **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, Jsoup, JavaScript, CSS.
 - **Key Features:**
   - Automated Jsoup web scraper to parse book catalog categories and details.
   - User accounts featuring stateful wishlists and shopping cart functionality.
@@ -53,7 +43,7 @@ A passionate software developer focused on building robust backends, clean APIs,
 
 ### 📰 [Global News Aggregator](https://github.com/parchurraja/Global-News-Aggregrator)
 > *Real-time News Aggregation Platform.*
-- **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, HTML5, JavaScript.
+- **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, HTML5, JavaScript, CSS.
 - **Key Features:**
   - Aggregates news articles from multiple web feeds.
   - Secure JWT session security and user account management.
